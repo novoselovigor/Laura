@@ -3,8 +3,8 @@
 	"type": "panorama",
 	"external": {
 		"js": [
-			"webvr/three.min.js",
-			"webvr/webvr-polyfill.min.js"
+			"webxr/three.min.js",
+			"webxr/webxr-polyfill.min.js"
 		],
 		"css": [
 			"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
@@ -16,7 +16,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2020-05-14T08:25:55.010Z",
+	"creationdate": "2020-05-14T19:01:47.370Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
